@@ -5,7 +5,6 @@ json
 os
 ipywidgets
 IPython.display
-umap.umap_
 matplotlib
 PIL
 top2vec
