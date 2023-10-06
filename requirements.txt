@@ -1,4 +1,3 @@
-umap.plot
 numpy 
 pandas
 json
