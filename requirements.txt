@@ -1,6 +1,5 @@
 numpy 
 pandas
-os
 ipywidgets
 IPython.display
 matplotlib
