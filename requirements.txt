@@ -1,6 +1,5 @@
 numpy 
 pandas
-json
 os
 ipywidgets
 IPython.display
