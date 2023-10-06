@@ -1,1 +1,11 @@
-numpy==1.25.0
+umap.plot
+numpy 
+pandas
+json
+os
+ipywidgets
+IPython.display
+umap.umap_
+matplotlib
+PIL
+top2vec
